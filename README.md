@@ -1,13 +1,15 @@
 # gamodding
- A non-comprehensive guide to legacy Minecraft modding.
 
-So you are tired of modern Minecraft modding and wants to try legacy modding but don't know how? This guide is (probably) for you!
+ Legacy Minecraft Modding Wiki
 
-Installing and playing with older mods can be quite difficult for a number of reasons, but this guide will guide you through the entire modloader installation process, and installing your favorite legacy mods!
+ gamodding aims to be a community-maintained general wiki for everything Legacy Minecraft Modding related!
 
 > [!IMPORTANT]
-> This guide is currently WIP and some parts may not be finished yet. Please send a bug report or (better yet) a pull request if you found parts that needs improvements or correction.
+> This wiki is currently WIP and some information may be outdated or incorrect. Please help growing this wiki by [forking it](https://github.com/FishiaT/gamodding/fork) and open a [Pull Request](https://github.com/FishiaT/gamodding/compare). Contributions of any kind are appreciated be it entire new pages or just minor grammar fixes!
 
-## [Getting started](getting-started.md)
+## Table of content
 
-## [Obtaining mods](obtaining-mods.md)
+### Modloader
+
+* [Installing a Modloader](categories/modloader-installation/getting-started.md)
+* [Obtaining mods](categories/misc/obtaining-mods.md)
