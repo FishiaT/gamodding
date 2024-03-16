@@ -29,4 +29,4 @@ For most cases, Java 8 is the only version you'll need.
 
 Each version may have a different way of playing with mods. Please pick your Minecraft version below (if a version is missing and you want it added, feel free to fork the repository and open a pull request!)
 
-* [Beta 1.7.3 (RML/Babric)](categories/modloader-installation/versions/b1.7.3.md)
+* [Beta 1.7.3 (RML/Babric)](versions/b1.7.3.md)
